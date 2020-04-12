@@ -1,0 +1,2 @@
+rootProject.name='ModernLoginRegister'
+include ':app'
